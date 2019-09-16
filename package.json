@@ -1,0 +1,19 @@
+{
+  "name": "webdriverioframework",
+  "version": "1.0.0",
+  "description": "Webdriverio Framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/D0rianGrey/webdriverioFramework.git"
+  },
+  "author": "Eugene Vakerin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/D0rianGrey/webdriverioFramework/issues"
+  },
+  "homepage": "https://github.com/D0rianGrey/webdriverioFramework#readme"
+}
