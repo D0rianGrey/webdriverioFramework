@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/D0rianGrey/webdriverioFramework/issues"
   },
-  "homepage": "https://github.com/D0rianGrey/webdriverioFramework#readme"
+  "homepage": "https://github.com/D0rianGrey/webdriverioFramework#readme",
+  "devDependencies": {
+    "mocha": "^5.2.0",
+    "selenium-standalone": "^6.15.3",
+    "webdriverio": "^4.13.2"
+  }
 }
