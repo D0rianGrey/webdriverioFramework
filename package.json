@@ -17,8 +17,9 @@
   },
   "homepage": "https://github.com/D0rianGrey/webdriverioFramework#readme",
   "devDependencies": {
-    "mocha": "^5.2.0",
+    "mocha": "^6.2.0",
     "selenium-standalone": "^6.15.3",
+    "wdio-mocha-framework": "^0.6.4",
     "webdriverio": "^4.13.2"
   }
 }

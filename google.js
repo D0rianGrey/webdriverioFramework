@@ -2,11 +2,9 @@ var webdriverio = require('webdriverio');
 var options = { desiredCapabilities: { browserName: 'chrome' } };
 var client = webdriverio.remote(options);
 
-client
+
+client 
     .init()
-    .url('http://www.webdriveruniversity.com/')
-    .click('#login-portal')
-    .getTitle().then(function(title) {
-        console.log('Title is: ' + title);
-    })
+    .url('http://google.com.ua/')
+    .setValue('//*[@id="tsf"]/div[2]/div[1]/div[1]/div/div[2]/input','webdriverio')
     .end();
