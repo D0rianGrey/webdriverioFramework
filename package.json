@@ -17,11 +17,20 @@
   },
   "homepage": "https://github.com/D0rianGrey/webdriverioFramework#readme",
   "devDependencies": {
+    "@types/node": "^12.7.12",
     "chai": "^4.2.0",
-    "mocha": "^6.2.0",
+    "coffeescript": "^2.4.1",
+    "mocha": "^6.2.1",
+    "nyc": "^14.1.1",
     "selenium-standalone": "^6.16.0",
+    "ts-node": "^8.4.1",
+    "typescript": "^3.6.4",
     "wdio-mocha-framework": "^0.6.4",
     "wdio-selenium-standalone-service": "0.0.12",
-    "webdriverio": "^4.13.2"
+    "webdriverio": "^4.13.2",
+    "webextension-polyfill": "^0.5.0"
+  },
+  "dependencies": {
+    "selenium-webdriver": "^4.0.0-alpha.5"
   }
 }
