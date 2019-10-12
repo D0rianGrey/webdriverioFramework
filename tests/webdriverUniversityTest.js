@@ -1,4 +1,3 @@
-
 describe("Verify whether webdriveruniversity link on homepage work correctly", function () {
     it("check that the contact us button opens the contact us page", function (done) {
         browser.setViewportSize({
