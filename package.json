@@ -18,6 +18,7 @@
   "homepage": "https://github.com/D0rianGrey/webdriverioFramework#readme",
   "devDependencies": {
     "@types/node": "^12.7.12",
+    "@types/webdriverio": "^4.8.7",
     "chai": "^4.2.0",
     "coffeescript": "^2.4.1",
     "mocha": "^6.2.1",
