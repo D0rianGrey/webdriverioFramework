@@ -21,7 +21,7 @@
     "@types/webdriverio": "^5.0.0",
     "chai": "^4.2.0",
     "coffeescript": "^2.5.1",
-    "mocha": "^7.1.0",
+    "mocha": "^10.2.0",
     "nyc": "^15.0.0",
     "selenium-standalone": "^6.17.0",
     "ts-node": "^8.6.2",
